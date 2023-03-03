@@ -20,13 +20,16 @@ struct Alignment {
 
 impl Alignment {
     fn parse(input: &str) -> IResult<&str, Alignment> {
-        // Example section:
+        // Example entry:
         // >DNA-directed RNA polymerase II subunit RPB1 [Eschrichtius robustus]
         // Sequence ID: MBV99095.1 Length: 1457
         // Range 1: 160 to 195
         // Score:78.6 bits(192), Expect:1e-10,
+        // ---Or if there are no alignments---
+        // >DNA-directed RNA polymerase II subunit RPB1 [Eschrichtius robustus]
+        // Sequence ID: MBV99095.1 Length: 1457
+        // ------
 
-        // println!("\n----------\n{input}");
         // Parse the name, where it starts with a '>', ignore newlines
         let (input, _) = take_until(">")(input)?; // Skip until > i.e discard up until that point
         let (input, name) = take_until("Sequence ID:")(input)?; // Take all up until Sequence ID:
@@ -36,10 +39,8 @@ impl Alignment {
         // Parse the sequence ID, which is a mix of letters and numbers i.e MBV99095.1
         let (input, _) = tag("Sequence ID: ")(input)?;
         let (input, seq_id) = take_until(" ")(input)?;
-        // println!("seq_id: {seq_id}");
 
-        // Parse the length, which is a number i.e 1457
-        // this should be parsed as an integer
+        // Parse the length
         let (input, length) = preceded(
             pair(tag(" Length:"), multispace0),
             map_res(digit1, |s: &str| s.parse::<i32>()),
@@ -77,6 +78,7 @@ impl Alignment {
             pair(take_until("Score:"), tag("Score:")),
             map_res(take_until(" bits"), |s: &str| s.parse::<f64>()),
         ))(input)?;
+
         // println!("score: {score}");
 
         // Parse the e_value
@@ -101,7 +103,6 @@ impl Alignment {
 }
 
 fn main() {
-    // let input = ">DNA-directed RNA polymerase II subunit RPB1 [Eschrichtius robustus]\nSequence ID: MBV99095.1 Length: 1457\nRange 1: 160 to 195\nScore:78.6 bits(192), Expect:1e-10,\n";
     let input = "
 >DNA-directed RNA polymerase II subunit RPB1 [Eschrichtius robustus]
 Sequence ID: MBV99095.1 Length: 1457
@@ -147,9 +148,8 @@ Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
 
 ";
 
-    // let input = include_str!("./blast.txt");
-    // let result = Alignment::parse(input);
     // run the parser multiple times until there is no more input
+    let input = include_str!("./blast.txt");
     let mut result = Alignment::parse(input);
     let mut alignments = Vec::new();
     while result.is_ok() {
