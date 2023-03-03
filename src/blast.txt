@@ -1,0 +1,1675 @@
+>DNA-directed RNA polymerase II subunit RPB1 [Eschrichtius robustus]
+Sequence ID: MBV99095.1 Length: 1457
+Range 1: 160 to 195
+
+Score:78.6 bits(192), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:36/36(100%), Positives:36/36(100%), Gaps:0/36(0%)
+
+Query  1736  APASAMHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             APASAMHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  160   APASAMHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  195
+
+
+
+
+>hypothetical protein GH733_018666 [Mirounga leonina]
+Sequence ID: KAF3813513.1 Length: 2107
+Range 1: 6 to 41
+
+Score:78.2 bits(191), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:36/36(100%), Positives:36/36(100%), Gaps:0/36(0%)
+
+Query  1736  APASAMHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             APASAMHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  6     APASAMHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  41
+
+
+
+
+>Chain o, DNA-directed RNA polymerase subunit [Sus scrofa]
+Sequence ID: 7EGA_o Length: 1487
+Range 1: 1 to 31
+
+Score:71.6 bits(174), Expect:2e-08, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Puma concolor]
+Sequence ID: XP_025776067.1 Length: 1423
+Range 1: 1 to 31
+
+Score:71.2 bits(173), Expect:3e-08, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Vicugna pacos]
+Sequence ID: XP_015107113.1 Length: 1532
+Range 1: 1 to 31
+
+Score:71.2 bits(173), Expect:3e-08, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>TPA: polymerase (RNA) II (DNA directed) polypeptide A, 220kDa, partial [Bos taurus]
+Sequence ID: DAA18939.1 Length: 1323
+Range 1: 1 to 31
+
+Score:71.2 bits(173), Expect:3e-08, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Bison bison bison]
+Sequence ID: XP_010845613.1 Length: 1600
+Range 1: 1 to 31
+
+Score:70.5 bits(171), Expect:4e-08, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Camelus dromedarius]
+Sequence ID: KAB1266614.1 Length: 1625
+Range 1: 1 to 31
+
+Score:70.5 bits(171), Expect:5e-08, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Macaca mulatta]
+Sequence ID: EHH24473.1 Length: 1629
+>DNA-directed RNA polymerase II subunit RPB1 [Macaca fascicularis]
+Sequence ID: EHH57677.1 Length: 1629 
+Range 1: 1 to 31
+
+Score:70.5 bits(171), Expect:5e-08, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Manis javanica]
+Sequence ID: KAI5941084.1 Length: 2000
+Range 1: 1 to 31
+
+Score:70.5 bits(171), Expect:5e-08, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>hypothetical protein E2I00_019989 [Balaenoptera physalus]
+Sequence ID: KAB0401776.1 Length: 1149
+Range 1: 1 to 31
+
+Score:70.1 bits(170), Expect:5e-08, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Microtus ochrogaster]
+Sequence ID: KAH0511561.1 Length: 669
+Range 1: 1 to 31
+
+Score:69.7 bits(169), Expect:5e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>hypothetical protein K5549_016350, partial [Capra hircus]
+Sequence ID: KAJ1072288.1 Length: 1890
+Range 1: 1 to 31
+
+Score:70.1 bits(170), Expect:6e-08, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>RNA polymerase II subunit A, partial [Homo sapiens]
+Sequence ID: KAI2581102.1 Length: 1836
+>RNA polymerase II subunit A, partial [Homo sapiens]
+Sequence ID: KAI4047613.1 Length: 1836 
+Range 1: 1 to 31
+
+Score:70.1 bits(170), Expect:6e-08, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: LOW QUALITY PROTEIN: DNA-directed RNA polymerase II subunit RPB1 [Panthera pardus]
+Sequence ID: XP_019269141.1 Length: 1912
+Range 1: 1 to 31
+
+Score:70.1 bits(170), Expect:6e-08, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>dna-directed rna polymerase ii subunit rpb1 [Lynx pardinus]
+Sequence ID: VFV46792.1 Length: 1933
+Range 1: 1 to 31
+
+Score:69.7 bits(169), Expect:7e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>hypothetical protein A6R68_01107 [Neotoma lepida]
+Sequence ID: OBS70383.1 Length: 1698
+Range 1: 1 to 31
+
+Score:69.7 bits(169), Expect:7e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>LOW QUALITY PROTEIN: DNA-directed RNA polymerase II subunit RPB1-like [Enhydra lutris kenyoni]
+Sequence ID: XP_022380279.1 Length: 1697
+Range 1: 1 to 31
+
+Score:69.7 bits(169), Expect:7e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>POLR2A isoform 2 [Pongo abelii]
+Sequence ID: PNJ12960.1 Length: 1554
+Range 1: 1 to 31
+
+Score:69.7 bits(169), Expect:7e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>POLR2A protein [Homo sapiens]
+Sequence ID: AAH67295.1 Length: 566
+>POLR2A, partial [synthetic construct]
+Sequence ID: AIC59174.1 Length: 566
+>POLR2A isoform 8 [Pan troglodytes]
+Sequence ID: PNI36947.1 Length: 566
+>POLR2A isoform 9 [Pongo abelii]
+Sequence ID: PNJ12961.1 Length: 566
+>unnamed protein product, partial [Human ORFeome Gateway entry vector]
+Sequence ID: SJX42238.1 Length: 566 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Microtus fortis]
+Sequence ID: XP_050018843.1 Length: 1774
+Range 1: 1 to 31
+
+Score:69.7 bits(169), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Neomonachus schauinslandi]
+Sequence ID: XP_044777310.1 Length: 1880
+Range 1: 1 to 31
+
+Score:69.7 bits(169), Expect:8e-08, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>RNA polymerase II subunit A [Molossus molossus]
+Sequence ID: KAF6416819.1 Length: 565
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Cricetulus griseus]
+Sequence ID: EGV93894.1 Length: 617
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:8e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1, partial [Suricata suricatta]
+Sequence ID: XP_029784651.1 Length: 1824
+Range 1: 1 to 31
+
+Score:69.3 bits(168), Expect:9e-08, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Bos indicus x Bos taurus]
+Sequence ID: XP_027374848.1 Length: 1946
+Range 1: 1 to 31
+
+Score:69.3 bits(168), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>hypothetical protein FD754_005757 [Muntiacus muntjak]
+Sequence ID: KAB0361601.1 Length: 1957
+Range 1: 1 to 31
+
+Score:69.3 bits(168), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>hypothetical protein Celaphus_00000966 [Cervus elaphus hippelaphus]
+Sequence ID: OWK15323.1 Length: 1885
+Range 1: 1 to 31
+
+Score:69.3 bits(168), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: LOW QUALITY PROTEIN: DNA-directed RNA polymerase II subunit RPB1 [Elephantulus edwardii]
+Sequence ID: XP_006899236.1 Length: 1904
+Range 1: 1 to 31
+
+Score:69.3 bits(168), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Neomonachus schauinslandi]
+Sequence ID: XP_021550168.2 Length: 1923
+Range 1: 1 to 31
+
+Score:69.3 bits(168), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X4 [Macaca thibetana thibetana]
+Sequence ID: XP_050621134.1 Length: 1857
+Range 1: 1 to 31
+
+Score:69.3 bits(168), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Bos taurus]
+Sequence ID: XP_024835397.1 Length: 1974
+Range 1: 1 to 31
+
+Score:69.3 bits(168), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>RNA polymerase II subunit A [Molossus molossus]
+Sequence ID: KAF6416820.1 Length: 1932
+Range 1: 1 to 31
+
+Score:69.3 bits(168), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>RNA polymerase II [Mus musculus]
+Sequence ID: AAA40071.1 Length: 1932
+Range 1: 1 to 31
+
+Score:69.3 bits(168), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X3 [Loxodonta africana]
+Sequence ID: XP_023412176.1 Length: 1822
+Range 1: 1 to 31
+
+Score:69.3 bits(168), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Mandrillus leucophaeus]
+Sequence ID: XP_011850126.1 Length: 1926
+Range 1: 1 to 31
+
+Score:69.3 bits(168), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>hypothetical protein FD755_021218 [Muntiacus reevesi]
+Sequence ID: KAB0367894.1 Length: 1954
+Range 1: 1 to 31
+
+Score:69.3 bits(168), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Halichoerus grypus]
+Sequence ID: XP_035922237.1 Length: 1956
+Range 1: 1 to 31
+
+Score:69.3 bits(168), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>LOW QUALITY PROTEIN: DNA-directed RNA polymerase II subunit RPB1 [Cavia porcellus]
+Sequence ID: XP_005002208.1 Length: 1832
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: LOW QUALITY PROTEIN: DNA-directed RNA polymerase II subunit RPB1 [Equus przewalskii]
+Sequence ID: XP_008528590.1 Length: 1974
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Galemys pyrenaicus]
+Sequence ID: KAG8507117.1 Length: 1971
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: LOW QUALITY PROTEIN: DNA-directed RNA polymerase II subunit RPB1 [Bos mutus]
+Sequence ID: XP_005889995.1 Length: 1942
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Echinops telfairi]
+Sequence ID: XP_004712954.1 Length: 1942
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1, partial [Physeter catodon]
+Sequence ID: XP_007100715.2 Length: 1950
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Oryx dammah]
+Sequence ID: XP_040099421.1 Length: 1963
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Otolemur garnettii]
+Sequence ID: XP_003791195.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Nycticebus coucang]
+Sequence ID: XP_053424427.1 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Sorex araneus]
+Sequence ID: XP_004604930.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Marmota monax]
+Sequence ID: XP_046317973.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Marmota monax]
+Sequence ID: KAF7476130.1 Length: 1970
+>POLR2A [Marmota monax]
+Sequence ID: KAI6048282.1 Length: 1970
+>POLR2A [Marmota monax]
+Sequence ID: KAI6057743.1 Length: 1970
+>Hypothetical predicted protein [Marmota monax]
+Sequence ID: VTJ66026.1 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Suncus etruscus]
+Sequence ID: XP_049622113.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Galeopterus variegatus]
+Sequence ID: XP_008572076.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Manis pentadactyla]
+Sequence ID: XP_036751766.1 Length: 1970
+>Dna-Directed Rna polymerase Ii Subunit Rpb1 [Manis pentadactyla]
+Sequence ID: KAI5280791.1 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Trichechus manatus latirostris]
+Sequence ID: XP_004376090.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Miniopterus natalensis]
+Sequence ID: XP_016077993.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Nycticebus coucang]
+Sequence ID: XP_053424426.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Ceratotherium simum simum]
+Sequence ID: XP_004433192.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Equus caballus]
+Sequence ID: XP_014584045.2 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Equus asinus]
+Sequence ID: XP_014717022.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Equus quagga]
+Sequence ID: XP_046530991.1 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Bos taurus]
+Sequence ID: NP_001193242.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Ovis aries]
+Sequence ID: XP_004013338.2 Length: 1970
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Capra hircus]
+Sequence ID: XP_017920073.1 Length: 1970
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Bos indicus]
+Sequence ID: XP_019836531.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Bos taurus]
+Sequence ID: XP_024835398.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Bubalus bubalis]
+Sequence ID: XP_025136459.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Bos indicus x Bos taurus]
+Sequence ID: XP_027374847.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Budorcas taxicolor]
+Sequence ID: XP_052513380.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Budorcas taxicolor]
+Sequence ID: XP_052513381.1 Length: 1970
+>Structure of transcribing mammalian RNA polymerase II [Bos taurus]
+Sequence ID: 5FLM_A Length: 1970
+>Structure of an RNA polymerase II-DSIF transcription elongation complex [Bos taurus]
+Sequence ID: 5OIK_A Length: 1970
+>hypothetical protein MG293_016285 [Ovis ammon polii]
+Sequence ID: KAI4533266.1 Length: 1970
+>hypothetical protein MJT46_014714 [Ovis ammon polii x Ovis aries]
+Sequence ID: KAI4556091.1 Length: 1970
+>hypothetical protein JEQ12_003088 [Ovis aries]
+Sequence ID: KAG5203505.1 Length: 1970
+>hypothetical protein MJG53_015050 [Ovis ammon polii x Ovis aries]
+Sequence ID: KAI4566373.1 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Myotis brandtii]
+Sequence ID: XP_005878807.1 Length: 1970
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Myotis davidii]
+Sequence ID: XP_006761701.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Myotis myotis]
+Sequence ID: XP_036197317.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Myotis davidii]
+Sequence ID: ELK31799.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Myotis brandtii]
+Sequence ID: EPQ15473.1 Length: 1970
+>RNA polymerase II subunit A [Myotis myotis]
+Sequence ID: KAF6296647.1 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Molossus molossus]
+Sequence ID: XP_036123854.1 Length: 1970
+>RNA polymerase II subunit A [Molossus molossus]
+Sequence ID: KAF6416818.1 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>RNA polymerase II largest subunit [Cricetulus griseus]
+Sequence ID: BAA22376.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Loxodonta africana]
+Sequence ID: XP_003416946.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Orycteropus afer afer]
+Sequence ID: XP_007950462.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Elephas maximus indicus]
+Sequence ID: XP_049716070.1 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Erinaceus europaeus]
+Sequence ID: XP_007522114.1 Length: 1977
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Erinaceus europaeus]
+Sequence ID: XP_007522121.1 Length: 1977
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Equus quagga]
+Sequence ID: XP_046530989.1 Length: 1989
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>RNA polymerase II largest subunit [Mus musculus]
+Sequence ID: AAB58418.1 Length: 1966
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Cricetulus griseus]
+Sequence ID: NP_001230931.2 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Acomys russatus]
+Sequence ID: XP_051023438.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Tupaia chinensis]
+Sequence ID: ELW63604.1 Length: 1801
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Loxodonta africana]
+Sequence ID: XP_023412174.1 Length: 1884
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Tupaia chinensis]
+Sequence ID: XP_006151958.1 Length: 1896
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Vombatus ursinus]
+Sequence ID: XP_027712844.1 Length: 1907
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Vulpes vulpes]
+Sequence ID: XP_025861178.1 Length: 1942
+>DNA-directed RNA polymerase II subunit RPB1 [Hyaena hyaena]
+Sequence ID: XP_039087414.1 Length: 1942 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Rhinopithecus bieti]
+Sequence ID: XP_017706125.1 Length: 1942
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Orcinus orca]
+Sequence ID: XP_049558311.1 Length: 1949
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Microtus ochrogaster]
+Sequence ID: XP_026636169.1 Length: 1949
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Camelus bactrianus]
+Sequence ID: XP_010964207.1 Length: 1956
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X4 [Lagenorhynchus obliquidens]
+Sequence ID: XP_026986695.1 Length: 1956
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Macaca thibetana thibetana]
+Sequence ID: XP_050621132.1 Length: 1956
+>DNA-directed RNA polymerase II subunit RPB1 isoform X3 [Macaca thibetana thibetana]
+Sequence ID: XP_050621133.1 Length: 1956 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Camelus dromedarius]
+Sequence ID: XP_010994833.2 Length: 1963
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Balaenoptera acutorostrata scammoni]
+Sequence ID: XP_007166457.1 Length: 1963
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Theropithecus gelada]
+Sequence ID: XP_025217821.1 Length: 1969
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Propithecus coquereli]
+Sequence ID: XP_012511166.1 Length: 1969
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Acinonyx jubatus]
+Sequence ID: XP_026903608.2 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Ailuropoda melanoleuca]
+Sequence ID: XP_002924473.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>Structure of activated transcription complex Pol II-DSIF-PAF-SPT6 [Sus scrofa]
+Sequence ID: 6GMH_A Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Onychomys torridus]
+Sequence ID: XP_036051350.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Monodelphis domestica]
+Sequence ID: XP_001364837.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Sarcophilus harrisii]
+Sequence ID: XP_003768816.2 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Trichosurus vulpecula]
+Sequence ID: XP_036622752.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Dromiciops gliroides]
+Sequence ID: XP_043858741.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Antechinus flavipes]
+Sequence ID: XP_051851774.1 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Octodon degus]
+Sequence ID: XP_004638464.1 Length: 1970
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Chinchilla lanigera]
+Sequence ID: XP_005399541.1 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Condylura cristata]
+Sequence ID: XP_004684716.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Lynx canadensis]
+Sequence ID: XP_030151925.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Panthera leo]
+Sequence ID: XP_042771008.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Panthera tigris]
+Sequence ID: XP_042821960.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Prionailurus bengalensis]
+Sequence ID: XP_043438863.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Felis catus]
+Sequence ID: XP_044900952.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Leopardus geoffroyi]
+Sequence ID: XP_045346192.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Lynx rufus]
+Sequence ID: XP_046945616.1 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Globicephala melas]
+Sequence ID: XP_030717457.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Mus musculus]
+Sequence ID: NP_001277997.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Mus caroli]
+Sequence ID: XP_021031224.1 Length: 1970
+>RecName: Full=DNA-directed RNA polymerase II subunit RPB1; Short=RNA polymerase II subunit B1; AltName: Full=DNA-directed RNA polymerase II subunit A; AltName: Full=DNA-directed RNA polymerase III largest subunit [Mus musculus]
+Sequence ID: P08775.3 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>LOW QUALITY PROTEIN: DNA-directed RNA polymerase II subunit RPB1 [Prionailurus viverrinus]
+Sequence ID: XP_047689476.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Orcinus orca]
+Sequence ID: XP_004266962.1 Length: 1970
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Lipotes vexillifer]
+Sequence ID: XP_007457833.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Delphinapterus leucas]
+Sequence ID: XP_022451329.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Neophocaena asiaeorientalis asiaeorientalis]
+Sequence ID: XP_024604166.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Phocoena sinus]
+Sequence ID: XP_032472190.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 isoform X2 [Tursiops truncatus]
+Sequence ID: XP_033704450.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Balaenoptera musculus]
+Sequence ID: XP_036692102.1 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>LOW QUALITY PROTEIN: DNA-directed RNA polymerase II subunit RPB1 [Rhinopithecus roxellana]
+Sequence ID: XP_010360655.2 Length: 1970
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Colobus angolensis palliatus]
+Sequence ID: XP_011813913.1 Length: 1970
+>PREDICTED: DNA-directed RNA polymerase II subunit RPB1 [Cercocebus atys]
+Sequence ID: XP_011908238.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Macaca mulatta]
+Sequence ID: XP_014973999.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Theropithecus gelada]
+Sequence ID: XP_025217820.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Trachypithecus francoisi]
+Sequence ID: XP_033040645.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Chlorocebus sabaeus]
+Sequence ID: XP_037843278.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 [Macaca fascicularis]
+Sequence ID: XP_045231372.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Macaca thibetana thibetana]
+Sequence ID: XP_050621131.1 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>RecName: Full=DNA-directed RNA polymerase II subunit RPB1; Short=RNA polymerase II subunit B1; AltName: Full=DNA-directed RNA polymerase II subunit A; AltName: Full=DNA-directed RNA polymerase III largest subunit; AltName: Full=RNA-directed RNA polymerase II subunit RPB1 [Homo sapiens]
+Sequence ID: P24928.2 Length: 1970
+>Human holo-PIC in the closed state [Homo sapiens]
+Sequence ID: 5IY6_A Length: 1970
+>Chain A, DNA-directed RNA polymerase II subunit RPB1 [Homo sapiens]
+Sequence ID: 5IY7_A Length: 1970
+>Human holo-PIC in the initial transcribing state [Homo sapiens]
+Sequence ID: 5IY8_A Length: 1970
+>Human holo-PIC in the initial transcribing state (no IIS) [Homo sapiens]
+Sequence ID: 5IY9_A Length: 1970
+>Human core-PIC in the closed state [Homo sapiens]
+Sequence ID: 5IYA_A Length: 1970
+>Human core-PIC in the open state [Homo sapiens]
+Sequence ID: 5IYB_A Length: 1970
+>Human core-PIC in the initial transcribing state [Homo sapiens]
+Sequence ID: 5IYC_A Length: 1970
+>Human core-PIC in the initial transcribing state (no IIS) [Homo sapiens]
+Sequence ID: 5IYD_A Length: 1970
+>Human holo-PIC in the closed state [Homo sapiens]
+Sequence ID: 6O9L_A Length: 1970
+>Chain A, DNA-directed RNA polymerase II subunit RPB1 [Homo sapiens]
+Sequence ID: 6XRE_A Length: 1970
+>Chain o, RPB1 [Sus scrofa]
+Sequence ID: 7EDX_o Length: 1970
+>Chain o, RPB1 [Sus scrofa]
+Sequence ID: 7EG7_o Length: 1970
+>Chain o, RPB1 [Sus scrofa]
+Sequence ID: 7EG8_o Length: 1970
+>Chain o, RPB1 [Sus scrofa]
+Sequence ID: 7EG9_o Length: 1970
+>Chain o, DNA-directed RNA polymerase II subunit RPB1 [Homo sapiens]
+Sequence ID: 7EGB_o Length: 1970
+>Chain o, DNA-directed RNA polymerase II subunit RPB1 [Homo sapiens]
+Sequence ID: 7EGC_o Length: 1970
+>Chain A, RPB1 [Sus scrofa]
+Sequence ID: 7F4G_A Length: 1970
+>Chain A, DNA-directed RNA polymerase II subunit RPB1 [Homo sapiens]
+Sequence ID: 7LBM_A Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Rattus rattus]
+Sequence ID: XP_032769884.1 Length: 1970
+>DNA-directed RNA polymerase II subunit RPB1 isoform X1 [Rattus norvegicus]
+Sequence ID: XP_343923.3 Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Manis javanica]
+Sequence ID: XP_017530707.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Camelus ferus]
+Sequence ID: XP_032354560.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>DNA-directed RNA polymerase II subunit RPB1 [Oryctolagus cuniculus]
+Sequence ID: XP_051681205.1 Length: 1970
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+>Chain PA, RPB1 [Sus scrofa]
+Sequence ID: 7ENA_PA Length: 1970
+>Chain PA, RPB1 [Sus scrofa]
+Sequence ID: 7ENC_PA Length: 1970 
+Range 1: 1 to 31
+
+Score:68.9 bits(167), Expect:1e-07, 
+Method:Composition-based stats., 
+Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
+
+Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
+             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
+Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
+
+
+
+
+		
+
+
