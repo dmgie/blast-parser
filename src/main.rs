@@ -1,3 +1,4 @@
+
 // Use nom to parse a blast file
 use nom::{
     character::complete::{char, digit1, multispace0, multispace1, newline},
@@ -5,9 +6,57 @@ use nom::{
     sequence::{pair, preceded,separated_pair},
     bytes::complete::{tag,take_until, take},
     number::complete::float,
+    error::Error,
     IResult,
 };
 use clap::{Parser};
+
+
+#[derive(Parser, Debug)]
+struct Args {
+    #[arg(short, long)]
+    file: String,
+}
+
+enum BlastError {
+    ParseError,
+}
+
+#[derive(Debug, PartialEq)]
+struct BlastFile {
+    header: Header,
+    alignments: Vec<Alignment>,
+}
+
+impl BlastFile {
+    fn parse(input: &str) -> IResult<&str, BlastFile, Error<&str>> {
+
+        // Parse header
+        let (input, header) = Header::parse(input)?;
+
+        // Parse alignments
+        let mut alignments = Vec::new();
+        let mut result = Alignment::parse(input);
+        // run the parser multiple times until there is no more input
+        while result.is_ok() {
+            let (input, alignment) = result.unwrap();
+            alignments.push(alignment);
+            result = Alignment::parse(input);
+        };
+
+        Ok(("", BlastFile {
+            header,
+            alignments,
+        }))
+    }
+}
+
+#[derive(Debug, PartialEq)]
+struct Header {
+    program: String,
+    length: i32
+}
+
 
 #[derive(Debug, PartialEq)]
 struct Alignment {
@@ -19,28 +68,41 @@ struct Alignment {
     e_value: Option<f64>,
 }
 
-#[derive(Parser, Debug)]
-struct Args {
-    #[arg(short, long)]
-    file: String,
+impl Header {
+    fn new(program: String, length: i32) -> Self {
+        Header {
+            program,
+            length,
+        }
+    }
+
+    fn parse(input: &str) -> IResult<&str, Self> {
+        // Program: BLASTX
+        // Query: None ID: lcl|Query_60974(dna) Length: 2030
+        let (input, _) = take_until("Program: ")(input)?;
+        let (input, program) = preceded(tag("Program: "), take_until("\n"))(input)?;
+        let (input, _) = newline(input)?;
+        let (input, _) = tag("Query: None ID: lcl|Query_60974(dna) Length: ")(input)?;
+        let (input, length) = map_res(digit1, |s: &str| s.parse::<i32>())(input)?;
+        Ok((input, Header::new(program.to_string(), length)))
+    }
 }
 
 impl Alignment {
+    /// Example entry:
+    /// >DNA-directed RNA polymerase II subunit RPB1 [Eschrichtius robustus]
+    /// Sequence ID: MBV99095.1 Length: 1457
+    /// Range 1: 160 to 195
+    /// Score:78.6 bits(192), Expect:1e-10,
+    /// ---Or if there are no alignments---
+    /// >DNA-directed RNA polymerase II subunit RPB1 [Eschrichtius robustus]
+    /// Sequence ID: MBV99095.1 Length: 1457
+    /// ------
     fn parse(input: &str) -> IResult<&str, Alignment> {
-        // Example entry:
-        // >DNA-directed RNA polymerase II subunit RPB1 [Eschrichtius robustus]
-        // Sequence ID: MBV99095.1 Length: 1457
-        // Range 1: 160 to 195
-        // Score:78.6 bits(192), Expect:1e-10,
-        // ---Or if there are no alignments---
-        // >DNA-directed RNA polymerase II subunit RPB1 [Eschrichtius robustus]
-        // Sequence ID: MBV99095.1 Length: 1457
-        // ------
 
         // Parse the name, where it starts with a '>', ignore newlines
         let (input, _) = take_until(">")(input)?; // Skip until > i.e discard up until that point
         let (input, name) = take_until("Sequence ID:")(input)?; // Take all up until Sequence ID:
-        // println!("name: {name}");
 
 
         // Parse the sequence ID, which is a mix of letters and numbers i.e MBV99095.1
@@ -77,7 +139,6 @@ impl Alignment {
             ),
         ))(input)?;
 
-        // println!("range: {range:?}");
 
         // Parse the score
         // there might be multiple newlines until the score, so we need to use take_until
@@ -86,7 +147,6 @@ impl Alignment {
             map_res(take_until(" bits"), |s: &str| s.parse::<f64>()),
         ))(input)?;
 
-        // println!("score: {score}");
 
         // Parse the e_value
         let (input, _) = opt(take_until("Expect:"))(input)?;
@@ -95,7 +155,6 @@ impl Alignment {
             map_res(take_until(","), |s: &str| s.parse::<f64>()),
         ))(input)?;
 
-        // println!("e_value: {e_value}");
 
         return Ok((input, Alignment {
             name: name.trim().to_string(),
@@ -110,62 +169,9 @@ impl Alignment {
 }
 
 fn main() {
-    let input = "
->DNA-directed RNA polymerase II subunit RPB1 [Eschrichtius robustus]
-Sequence ID: MBV99095.1 Length: 1457
-Range 1: 160 to 195
-
-Score:78.6 bits(192), Expect:1e-10,
-Method:Compositional matrix adjust.,
-Identities:36/36(100%), Positives:36/36(100%), Gaps:0/36(0%)
-
-Query  1736  APASAMHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
-             APASAMHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
-Sbjct  160   APASAMHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  195
-
-
-
-
->hypothetical protein GH733_018666 [Mirounga leonina]
-Sequence ID: KAF3813513.1 Length: 2107
-Range 1: 6 to 41
-
-Score:78.2 bits(191), Expect:2e-10,
-Method:Compositional matrix adjust.,
-Identities:36/36(100%), Positives:36/36(100%), Gaps:0/36(0%)
-
-Query  1736  APASAMHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
-             APASAMHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
-Sbjct  6     APASAMHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  41
-
-
->DNA-directed RNA polymerase II subunit RPB1 [Macaca mulatta]
-Sequence ID: EHH24473.1 Length: 1629
->DNA-directed RNA polymerase II subunit RPB1 [Macaca fascicularis]
-Sequence ID: EHH57677.1 Length: 1655
-Range 1: 1 to 31
-
-Score:70.5 bits(171), Expect:5e-08,
-Method:Composition-based stats.,
-Identities:31/31(100%), Positives:31/31(100%), Gaps:0/31(0%)
-
-Query  1751  MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  1843
-             MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL
-Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
-
-";
-
-    // run the parser multiple times until there is no more input
+    // We load the entire file into memory, since it's usually not gonna be that large
     let args = Args::parse();
     let input = std::fs::read_to_string(args.file).unwrap();
-    let mut result = Alignment::parse(&*input);
-    let mut alignments = Vec::new();
-    while result.is_ok() {
-        let (input, alignment) = result.unwrap();
-        alignments.push(alignment);
-        result = Alignment::parse(input);
-    }
-    for alignment in alignments {
-        println!("{alignment:?}");
-    }
+    let result = BlastFile::parse(&input).unwrap().1;
+    // println!("{:#?}", result.alignments);
 }
