@@ -7,6 +7,7 @@ use nom::{
     number::complete::float,
     IResult,
 };
+use clap::{Parser};
 
 #[derive(Debug, PartialEq)]
 struct Alignment {
@@ -16,6 +17,12 @@ struct Alignment {
     range: Option<(i64, i64)>,
     score: Option<f64>,
     e_value: Option<f64>,
+}
+
+#[derive(Parser, Debug)]
+struct Args {
+    #[arg(short, long)]
+    file: String,
 }
 
 impl Alignment {
@@ -149,8 +156,9 @@ Sbjct  1     MHGGGPPSGDSACPLRTIKRVQFGVLSPDEL  31
 ";
 
     // run the parser multiple times until there is no more input
-    let input = include_str!("./blast.txt");
-    let mut result = Alignment::parse(input);
+    let args = Args::parse();
+    let input = std::fs::read_to_string(args.file).unwrap();
+    let mut result = Alignment::parse(&*input);
     let mut alignments = Vec::new();
     while result.is_ok() {
         let (input, alignment) = result.unwrap();
